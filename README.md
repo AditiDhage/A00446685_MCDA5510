@@ -1,5 +1,5 @@
 # A00446685_MCDA5510
 Hi, My name is Aditi Dhage.I am from India and have completed B.Tech in Electronics and Tele communication from one of the autunomous institute named SGGSIE&T,Nanded, Maharashtra,India. Overall I have 5 years of working in IT. Initially I was with IBM and worked there for 3 years on technologies like MSBI and cognos reporting for Walmart and Motiva client. For a little time I got a chance to work on Incident, problem and change management using Maximo tool. I am familiar with maximo, remedy and cognos. Later in year 2019, I joined Infosys as  Analyst - PowerBI developer. I had developed PowerBI reports for clients like Microsoft, Dover, Rio Tinto, ING. 
-A# is :A00446685 and preferred email address i aditidhage1993@gmail.com
+A# is :A00446685 and preferred email address is aditidhage1993@gmail.com
 I have NO experience in .Net and github. However, I have some knowledge about Java and very little about C#.
 As the required programming skills like .NET is very new to me, I would like to explore related areas and consume more time in learning new programming lagnuages.
